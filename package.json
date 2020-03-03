@@ -1,0 +1,15 @@
+{
+  "name": "inventory",
+  "version": "0.0.1",
+  "description": "Inventario de productos con javascript",
+  "main": "src/js/index.js",
+  "scripts": {
+    "dev": "parcel src/index.html -p 3000 --no-cache",
+    "build": "parcel src/index.html --no-cache"
+  },
+  "author": "Jorge Paul Maldonado",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
